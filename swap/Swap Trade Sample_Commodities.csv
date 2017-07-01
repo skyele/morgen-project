@@ -1,0 +1,4 @@
+Trade number,Counterparty,Buy/Sell,Fixed price,Float index,Quantity,UOM,Pricing start,Pricing end,
+1000006,Company A,B,50,WTI1nb,22000,bbl,5/1/2017,5/31/2017,
+1000007,Company A,S,55,BRENT1nb,1000,bbl,6/1/2017,6/30/2017,
+1000008,Company A,S,48,WTI1nb,2000,bbl,12/15/2017,12/15/2017,
